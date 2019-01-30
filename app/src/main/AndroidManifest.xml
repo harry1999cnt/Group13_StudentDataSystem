@@ -19,7 +19,11 @@
         <activity android:name=".Schedule" />
         <activity android:name=".Grades" />
         <activity android:name=".Attendance" />
-        <activity android:name=".Accommodation"></activity>
+        <activity android:name=".Accommodation" />
+        <activity
+            android:name=".Directory"
+            android:label="@string/title_activity_directory"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
